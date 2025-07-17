@@ -1,6 +1,3 @@
-Got it! You want a README for an **Eye Controlled Mouse** project instead. Here's a clean, concise **README.md** tailored for an Eye Controlled Mouse:
-
-````markdown
 # Eye Controlled Mouse
 
 Control your computer mouse pointer using your eye movements via a standard webcam. This Python project uses OpenCV and MediaPipe’s face and eye tracking to detect your gaze direction and PyAutoGUI to move the cursor and perform clicks—all hands-free!
@@ -45,14 +42,3 @@ Ensure your webcam is connected and allow camera access. Move your eyes to move 
 * Add gaze calibration for higher accuracy
 * Support right-click and scroll with eye gestures
 * Enhance blink detection robustness
-
-## License
-
-MIT License
-
-```
-
----
-
-If you want, I can also help you write a sample Python script for **eye tracking mouse control** using OpenCV + MediaPipe! Just ask!
-```
